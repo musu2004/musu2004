@@ -1,7 +1,6 @@
-**Hi 👋, I'm Muskan Shaw**
 ![logo](https://github.com/musu2004/musu2004/blob/main/musu2004.gif)
-
-Hello! I am Muskan Shaw, Currently pursuing B.Tech in Civil Engineering From NIT Agartala.
+<h1 align="center">Hi there 👋 Myself Muskan Shaw</h1>
+<h3 align="center">Currently pursuing B.Tech in Civil Engineering from NIT Agartala.</h3>
 <br>
 <p>
   <img align="right" alt="coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
