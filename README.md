@@ -1,4 +1,4 @@
-![logo](https://github.com/musu2004/musu2004/blob/main/musu20.gif)
+![logo](https://github.com/musu2004/musu2004/blob/main/musu2004.gif)
 <h1 align="center">Hi there 👋 Myself Muskan Shaw</h1>
 <h3 align="center">Currently pursuing B.Tech in Civil Engineering from NIT Agartala.</h3>
 <br>
